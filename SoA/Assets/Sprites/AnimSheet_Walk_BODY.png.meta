@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: a13b70271e6d443489778bf4ca09b457
+timeCreated: 1453395033
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AnimSheet_Walk_BODY_0
+    21300002: AnimSheet_Walk_BODY_1
+    21300004: AnimSheet_Walk_BODY_2
+    21300006: AnimSheet_Walk_BODY_3
+    21300008: AnimSheet_Walk_BODY_4
+    21300010: AnimSheet_Walk_BODY_5
+    21300012: AnimSheet_Walk_BODY_6
+    21300014: AnimSheet_Walk_BODY_7
+    21300016: AnimSheet_Walk_BODY_8
+    21300018: AnimSheet_Walk_BODY_9
+    21300020: AnimSheet_Walk_BODY_10
+    21300022: AnimSheet_Walk_BODY_11
+    21300024: AnimSheet_Walk_BODY_12
+    21300026: AnimSheet_Walk_BODY_13
+    21300028: AnimSheet_Walk_BODY_14
+    21300030: AnimSheet_Walk_BODY_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AnimSheet_Walk_BODY_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 15}
+        - {x: -6, y: 15}
+        - {x: -10, y: 13}
+        - {x: -14, y: 6}
+        - {x: -14, y: -13}
+        - {x: -11, y: -24}
+        - {x: 10, y: -24}
+        - {x: 14, y: -19}
+        - {x: 14, y: 2}
+        - {x: 9, y: 14}
+    - name: AnimSheet_Walk_BODY_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 150
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -13, y: 8}
+        - {x: -14, y: -8}
+        - {x: -14, y: -13}
+        - {x: -4, y: -25}
+        - {x: 11, y: -25}
+        - {x: 14, y: -24}
+        - {x: 14, y: 1}
+        - {x: 9, y: 16}
+    - name: AnimSheet_Walk_BODY_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 150
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 15}
+        - {x: -6, y: 15}
+        - {x: -10, y: 13}
+        - {x: -14, y: 6}
+        - {x: -14, y: -13}
+        - {x: -11, y: -24}
+        - {x: 10, y: -24}
+        - {x: 14, y: -19}
+        - {x: 14, y: 2}
+        - {x: 9, y: 14}
+    - name: AnimSheet_Walk_BODY_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 150
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 15}
+        - {x: 7, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 5}
+        - {x: -14, y: -20}
+        - {x: -10, y: -25}
+        - {x: 1, y: -25}
+        - {x: 14, y: -14}
+        - {x: 14, y: -4}
+        - {x: 12, y: 8}
+    - name: AnimSheet_Walk_BODY_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 15}
+        - {x: -6, y: 15}
+        - {x: -10, y: 13}
+        - {x: -14, y: 6}
+        - {x: -14, y: -13}
+        - {x: -11, y: -24}
+        - {x: 10, y: -24}
+        - {x: 14, y: -19}
+        - {x: 14, y: 2}
+        - {x: 9, y: 14}
+    - name: AnimSheet_Walk_BODY_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 100
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 15}
+        - {x: 7, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 5}
+        - {x: -14, y: -20}
+        - {x: -10, y: -25}
+        - {x: 1, y: -25}
+        - {x: 14, y: -14}
+        - {x: 14, y: -4}
+        - {x: 12, y: 8}
+    - name: AnimSheet_Walk_BODY_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 15}
+        - {x: -6, y: 15}
+        - {x: -10, y: 13}
+        - {x: -14, y: 6}
+        - {x: -14, y: -13}
+        - {x: -11, y: -24}
+        - {x: 10, y: -24}
+        - {x: 14, y: -19}
+        - {x: 14, y: 2}
+        - {x: 9, y: 14}
+    - name: AnimSheet_Walk_BODY_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -13, y: 8}
+        - {x: -14, y: -8}
+        - {x: -14, y: -13}
+        - {x: -4, y: -25}
+        - {x: 11, y: -25}
+        - {x: 14, y: -24}
+        - {x: 14, y: 1}
+        - {x: 9, y: 16}
+    - name: AnimSheet_Walk_BODY_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -10, y: -19}
+        - {x: -9, y: -23}
+        - {x: -7, y: -24}
+        - {x: 7, y: -24}
+        - {x: 10, y: -13}
+        - {x: 10, y: 15}
+    - name: AnimSheet_Walk_BODY_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 50
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -25}
+        - {x: 12, y: -25}
+        - {x: 12, y: 7}
+        - {x: 9, y: 17}
+        - {x: -6, y: 17}
+        - {x: -12, y: 12}
+    - name: AnimSheet_Walk_BODY_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 50
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -10, y: -19}
+        - {x: -9, y: -23}
+        - {x: -7, y: -24}
+        - {x: 7, y: -24}
+        - {x: 10, y: -13}
+        - {x: 10, y: 15}
+    - name: AnimSheet_Walk_BODY_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 50
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -25}
+        - {x: 13, y: -25}
+        - {x: 13, y: 15}
+        - {x: 7, y: 17}
+    - name: AnimSheet_Walk_BODY_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 11}
+        - {x: -10, y: -3}
+        - {x: -9, y: -13}
+        - {x: -8, y: -24}
+        - {x: 8, y: -24}
+        - {x: 10, y: -19}
+        - {x: 10, y: 15}
+    - name: AnimSheet_Walk_BODY_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -25}
+        - {x: 10, y: -25}
+        - {x: 12, y: -24}
+        - {x: 12, y: 0}
+        - {x: 9, y: 16}
+        - {x: 6, y: 17}
+        - {x: -9, y: 17}
+        - {x: -12, y: 16}
+    - name: AnimSheet_Walk_BODY_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 11}
+        - {x: -10, y: -3}
+        - {x: -9, y: -13}
+        - {x: -8, y: -24}
+        - {x: 8, y: -24}
+        - {x: 10, y: -19}
+        - {x: 10, y: 15}
+    - name: AnimSheet_Walk_BODY_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -13, y: 16}
+        - {x: -13, y: -25}
+        - {x: 5, y: -25}
+        - {x: 13, y: -22}
+        - {x: 13, y: -8}
+        - {x: 9, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
